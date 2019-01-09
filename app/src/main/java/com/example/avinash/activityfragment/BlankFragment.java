@@ -50,8 +50,6 @@ public class BlankFragment extends Fragment {
         textView.setText(message);
         getArguments().getString("key");
             textView.getText().toString();*/
-
-       //new chnages here
         return view;
     }
 
